@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Chicago | ./20-hiago
+echo Chicago | tr -d Cc
