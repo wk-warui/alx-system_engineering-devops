@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#Displays "Best School" using the until loop
+
+count-0
+
+until [ $count -eq 10 ]
+((count++))
+done
