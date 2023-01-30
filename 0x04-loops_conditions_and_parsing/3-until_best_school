@@ -4,5 +4,7 @@
 count-0
 
 until [ $count -eq 10 ]
-((count++))
+do
+	echo "Best School"
+	(( count++ ))
 done
