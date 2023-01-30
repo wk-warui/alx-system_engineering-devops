@@ -3,7 +3,7 @@
 #bad luck(4th iter), good luck(8th iter) and best school(other iterations)
 #using while loop, if, elif and else
 
-count-0
+count=0
 
 while [ $count -lt 10 ]
 do
